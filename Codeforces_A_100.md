@@ -11,7 +11,6 @@
 |Paint the Numbers                       |https://codeforces.com/contest/1209/problem/A|
 |Anadi and Domino                        |https://codeforces.com/contest/1210/problem/A|
 |Three Problems                          |https://codeforces.com/contest/1211/problem/A|
-|Wrong Subtraction                       |https://codeforces.com/contest/1212/problem/A|
 |Chips Moving                            |https://codeforces.com/contest/1213/problem/A|
 |Optimal Currency Exchange               |https://codeforces.com/contest/1214/problem/A|
 |Yellow Cards                            |https://codeforces.com/contest/1215/problem/A|
