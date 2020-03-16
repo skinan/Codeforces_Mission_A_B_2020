@@ -5,7 +5,6 @@
 |You Are Given Two Binary Strings...     |https://codeforces.com/contest/1202/problem/A|
 |Circle of Students                      |https://codeforces.com/contest/1203/problem/A|
 |BowWow and the Timetable                |https://codeforces.com/contest/1204/problem/A|
-|Almost Equal                            |https://codeforces.com/contest/1205/problem/A|
 |Choose Two Numbers                      |https://codeforces.com/contest/1206/problem/A|
 |There Are Two Types Of Burgers          |https://codeforces.com/contest/1207/problem/A|
 |XORinacci                               |https://codeforces.com/contest/1208/problem/A|
