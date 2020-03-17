@@ -79,6 +79,5 @@
 |Likes Display                           |https://codeforces.com/contest/1297/problem/A|
 |Restoring Three Numbers                 |https://codeforces.com/contest/1298/problem/A|
 |Anu Has a Function                      |https://codeforces.com/contest/1299/problem/A|
-|Nash equilibrium                        |https://codeforces.com/contest/1302/problem/A|
 
 
