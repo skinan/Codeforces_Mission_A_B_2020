@@ -71,20 +71,14 @@
 |New Year and Naming                     |https://codeforces.com/contest/1284/problem/A|
 |Mezo Playing Zoma                       |https://codeforces.com/contest/1285/problem/A|
 |Garland                                 |https://codeforces.com/contest/1286/problem/A|
-|Angry Students                          |https://codeforces.com/contest/1287/problem/A|
 |Deadline                                |https://codeforces.com/contest/1288/problem/A|
 |Mind Control                            |https://codeforces.com/contest/1290/problem/A|
 |Even But Not Even                       |https://codeforces.com/contest/1291/problem/A|
-|NEKO's Maze Game                        |https://codeforces.com/contest/1292/problem/A|
-|ConneR and the A.R.C. Markland-N        |https://codeforces.com/contest/1293/problem/A|
 |Collecting Coins                        |https://codeforces.com/contest/1294/problem/A|
 |Display The Number                      |https://codeforces.com/contest/1295/problem/A|
-|Array with Odd Sum                      |https://codeforces.com/contest/1296/problem/A|
 |Likes Display                           |https://codeforces.com/contest/1297/problem/A|
 |Restoring Three Numbers                 |https://codeforces.com/contest/1298/problem/A|
 |Anu Has a Function                      |https://codeforces.com/contest/1299/problem/A|
-|Non-zero                                |https://codeforces.com/contest/1300/problem/A|
-|Three Strings                           |https://codeforces.com/contest/1301/problem/A|
 |Nash equilibrium                        |https://codeforces.com/contest/1302/problem/A|
-|Erasing Zeroes                          |https://codeforces.com/contest/1303/problem/A|
-|Two Rabbits                             |https://codeforces.com/contest/1304/problem/A|
+
+
