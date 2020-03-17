@@ -1,13 +1,10 @@
 |Name                                    |URL                                          |
 |----------------------------------------|---------------------------------------------|
 |Hotelier                                |https://codeforces.com/contest/1200/problem/A|
-|Important Exam                          |https://codeforces.com/contest/1201/problem/A|
-|You Are Given Two Binary Strings...     |https://codeforces.com/contest/1202/problem/A|
 |Circle of Students                      |https://codeforces.com/contest/1203/problem/A|
 |BowWow and the Timetable                |https://codeforces.com/contest/1204/problem/A|
 |Choose Two Numbers                      |https://codeforces.com/contest/1206/problem/A|
 |There Are Two Types Of Burgers          |https://codeforces.com/contest/1207/problem/A|
-|XORinacci                               |https://codeforces.com/contest/1208/problem/A|
 |Paint the Numbers                       |https://codeforces.com/contest/1209/problem/A|
 |Anadi and Domino                        |https://codeforces.com/contest/1210/problem/A|
 |Three Problems                          |https://codeforces.com/contest/1211/problem/A|
@@ -91,7 +88,3 @@
 |Nash equilibrium                        |https://codeforces.com/contest/1302/problem/A|
 |Erasing Zeroes                          |https://codeforces.com/contest/1303/problem/A|
 |Two Rabbits                             |https://codeforces.com/contest/1304/problem/A|
-|Kuroni and the Gifts                    |https://codeforces.com/contest/1305/problem/A|
-|Cow and Haybales                        |https://codeforces.com/contest/1307/problem/A|
-|Recommendations                         |https://codeforces.com/contest/1310/problem/A|
-|Add Odd or Subtract Even                |https://codeforces.com/contest/1311/problem/A|
